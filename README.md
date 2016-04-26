@@ -1,5 +1,6 @@
 # Checklist for a new Java contract/project
-This is a checklist that allow an easy onboarding in a new Java project for the employee and team leader
+This is a checklist that allow an easy onboarding in a new Java project for the employee and team leader.
+It can be useful during interviews to understand in which environment the client is working.
 
 IDE - choice
 - Eclipse
