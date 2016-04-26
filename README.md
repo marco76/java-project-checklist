@@ -3,8 +3,8 @@ This is a checklist that allow an easy onboarding in a new Java project for the 
 It can be useful during interviews to understand in which environment the client is working.
 
 IDE - choice
-o Eclipse - Intellij - Netbeans
-o Free choice?
+- Eclipse - Intellij - Netbeans
+- Free choice?
 
 IDE - configuration
 - Is it possible to use custom plugins?
@@ -15,35 +15,35 @@ Java SE version
 - Which version?
 
 Java enterprise framework
-o Spring - JavaEE
+- Spring - JavaEE
 
 JavaEE - injection preference
-o CDI - EJB
+- CDI - EJB
 - No preferences (mixing allowed)
 
 JavaEE - application server
-o JBoss - Weblogic - Websphere - TomEE - Other
+- JBoss - Weblogic - Websphere - TomEE - Other
 
 Java EE - packaging
-o WAR - EAR
+- WAR - EAR
 
 Java Enterprise - Web Services
-o JAX-WS - JAX-RS
+- JAX-WS - JAX-RS
 
 Project - libraries
 - Is it possible to add external libraries? Limitations?
 
 Server operating system
-o Linux - Windows
+- Linux - Windows
 
 Build
-o Maven - Ant - Gradle
+- Maven - Ant - Gradle
 
 CI
-o Jenkins - Hudson
+- Jenkins - Hudson
 
 Source versioning
-o Git - CVS - SVN
+- Git - CVS - SVN
 
 Code control tools
 - FindBug
@@ -52,10 +52,10 @@ Code control tools
 - Review Code Tools
 
 Tests - Behavior Driven Development
-o Cucumber - FitNesse
+- Cucumber - FitNesse
 
 Tests - Unit Tests
-o JUnit - TestNG
+- JUnit - TestNG
 - % coverage
 
 Tests - JavaEE
@@ -67,10 +67,10 @@ Test - Database
 - How the database data is tested? Mock, Memory DB, DB instance?
 
 Bugs
-o JIRA - Other
+- JIRA - Other
 
 Performance Tuning
-o VisualVM - JProfiler - Yourkit
+- VisualVM - JProfiler - Yourkit
 
 Documentation
 - Where to find the documentation?
@@ -78,7 +78,7 @@ Documentation
 - JavaDoc is generated? We have to document class/method created?
 
 Database - Brand
-o Oracle - SQLServer - MySql - Other
+- Oracle - SQLServer - MySql - Other
 
 Database - Installation
 - Remote access, login instruction
@@ -88,7 +88,7 @@ Database - Client
 - Which tool is used? Free choice?
 
 Project Management
-o Scrum - RUP - Other
+- Scrum - RUP - Other
 
 Scrum
 - Time and place for the meetings
