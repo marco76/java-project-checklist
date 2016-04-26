@@ -2,19 +2,18 @@
 This is a checklist that allow an easy onboarding in a new Java project for the employee and team leader
 
 IDE - choice
-- eclipse
-- intellij
-- netbeans
-- other
-- free choice
+- Eclipse
+- Intellij
+- Netbeans
+- Free choice?
 
 IDE - configuration
-- is it possible to use custom plugins
-- is it possible to use custom configuration
-- are there existing profiles to be imported
+- Is it possible to use custom plugins?
+- Is it possible to use custom configuration?
+- Are there existing profiles to be imported?
 
 Java SE version
-- which version?
+- Which version?
 
 Java enterprise framework
 - Spring
@@ -23,14 +22,14 @@ Java enterprise framework
 JavaEE - injection preference
 - CDI
 - EJB
-- the two
+- No preferences (mixing allowed)
 
 JavaEE - application server
 - JBoss
 - Weblogic
 - Websphere
 - TomEE
-- other
+- Other
 
 Java EE - packaging
 - WAR
@@ -65,7 +64,8 @@ Code control
 - FindBug
 - Checkstyle
 - Code naming conventions
-- other
+- Review Code Tools
+- Other
 
 Tests - Behavior Driven Development
 - Cucumber
@@ -83,7 +83,7 @@ Tests - JavaEE
 
 Bugs
 - JIRA
-- other
+- Other
 
 Performance Tuning
 - VisualVM
@@ -93,7 +93,7 @@ Performance Tuning
 Documentation
 - UML
 - JavaDoc
-- where to find
+- Where to find it?
 
 Database - Brand
 - Oracle
@@ -109,13 +109,14 @@ Database - Client
 - Which tool is used? Free choice?
 
 Project Management
-- scrum
+- Scrum
 - RUP
-- other
+- Other
 
 Scrum
-- time and place for the meetings
-- lenght of the sprints
+- Time and place for the meetings
+- Duration of the sprints
+- Who is the Scrum Master?
 
 Other questions
 - Can I install free/licenced software on my workstation?
