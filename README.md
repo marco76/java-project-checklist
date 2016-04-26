@@ -4,7 +4,7 @@ It can be useful during interviews to understand in which environment the client
 
 IDE - choice
 o Eclipse - Intellij - Netbeans
-- Free choice?
+o Free choice?
 
 IDE - configuration
 - Is it possible to use custom plugins?
