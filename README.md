@@ -3,9 +3,7 @@ This is a checklist that allow an easy onboarding in a new Java project for the 
 It can be useful during interviews to understand in which environment the client is working.
 
 IDE - choice
-- Eclipse
-- Intellij
-- Netbeans
+o Eclipse - Intellij - Netbeans
 - Free choice?
 
 IDE - configuration
@@ -17,64 +15,47 @@ Java SE version
 - Which version?
 
 Java enterprise framework
-- Spring
-- JavaEE
+o Spring - JavaEE
 
 JavaEE - injection preference
-- CDI
-- EJB
+o CDI - EJB
 - No preferences (mixing allowed)
 
 JavaEE - application server
-- JBoss
-- Weblogic
-- Websphere
-- TomEE
-- Other
+o JBoss - Weblogic - Websphere - TomEE - Other
 
 Java EE - packaging
-- WAR
-- EAR
+o WAR - EAR
 
 Java Enterprise - Web Services
-- JAX-WS
-- JAX-RS
+o JAX-WS - JAX-RS
 
 Project - libraries
 - Is it possible to add external libraries? Limitations?
 
 Server operating system
-- Linux
-- Windows
+o Linux - Windows
 
 Build
-- Maven
-- Ant
-- Gradle
+o Maven - Ant - Gradle
 
 CI
-- Jenkins
-- Hudson
+o Jenkins - Hudson
 
 Source versioning
-- Git
-- CVS
-- SVN
+o Git - CVS - SVN
 
-Code control
+Code control tools
 - FindBug
 - Checkstyle
 - Code naming conventions
 - Review Code Tools
-- Other
 
 Tests - Behavior Driven Development
-- Cucumber
-- FitNesse
+o Cucumber - FitNesse
 
 Tests - Unit Tests
-- JUnit
-- TestNG
+o JUnit - TestNG
 - % coverage
 
 Tests - JavaEE
@@ -82,37 +63,32 @@ Tests - JavaEE
 - How the container is launched?
 - Which tools are used (ex. SOAPUI for WS)
 
+Test - Database
+- How the database data is tested? Mock, Memory DB, DB instance?
+
 Bugs
-- JIRA
-- Other
+o JIRA - Other
 
 Performance Tuning
-- VisualVM
-- JProfiler
-- Yourkit
+o VisualVM - JProfiler - Yourkit
 
 Documentation
-- UML
-- JavaDoc
-- Where to find it?
+- Where to find the documentation?
+- Format (UML, etc.) ?
+- JavaDoc is generated? We have to document class/method created?
 
 Database - Brand
-- Oracle
-- SQLServer
-- MySql
-- Other
+o Oracle - SQLServer - MySql - Other
 
 Database - Installation
-- Remote access
-- Local install
+- Remote access, login instruction
+- Local install. Is it possible to have a local instance?
 
 Database - Client
 - Which tool is used? Free choice?
 
 Project Management
-- Scrum
-- RUP
-- Other
+o Scrum - RUP - Other
 
 Scrum
 - Time and place for the meetings
