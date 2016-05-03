@@ -15,7 +15,7 @@ Java SE version
 - Which version?
 
 Java enterprise framework
-- Spring - JavaEE
+- Spring - JavaEE - Other
 
 JavaEE - injection preference
 - CDI - EJB
